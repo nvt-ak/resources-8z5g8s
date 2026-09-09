@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nvt-ak.github.io/resources-8z5g8s/sitemap.xml
